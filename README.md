@@ -20,3 +20,5 @@ Steps:
 
 Limitations:
 So far this projects has been formatted to read the UK licence plates which has the following format: XY 12 ABC. 
+
+The project is inspired by [computervisioneng](https://github.com/computervisioneng). A big thanks for such amazing computer vision tutorials. 
